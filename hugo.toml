@@ -1,0 +1,80 @@
+baseURL = "http://loalhost:1313/"
+author = "Pradnya Savant"
+copyright = "Copyright © 2008–2019, Sorbet Studio™; all rights reserved."
+paginate=3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+# ------------------------------
+theme = "hugo-paper"
+title = "Sorbet Studio"
+
+[params]
+  color = 'linen'
+
+  twitter = 'nanxiaobei'
+  github = 'nanxiaobei'
+  instagram = 'nan.xiaobei'
+
+  #avatar = 'nanxiaobei@gmail.com'
+  #bio = 'Discover fresh context'
+# ------------------------------
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+#  [markup.highlight]
+#    lineNos = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/About/"
+    weight = 10
+  [[menu.main]]
+    identifier = "Career"
+    name = "Career"
+    url = "https://careers.sorbet.studio/jobs/Careers"
+    weight = 10
+     [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/Contact/"
+    weight = 10
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
