@@ -9,3 +9,9 @@ author = "lee.so"
 - https://github.com/sorbetstudio
 - https://www.instagram.com/sorbet.ing/
 - Phone : +912048555222
+
+<video controls>
+  <source src="/videos/sorbet.mp4" type="video/mp4">
+</video>
+
+

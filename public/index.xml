@@ -14,7 +14,7 @@
       <link>http://localhost:1313/post/rusks/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/rusks/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <description>Established in 1950, Shamim Perfumes is a family-owned business with a rich history deeply rooted in the art of perfumery. Our journey began with a vision to capture the essence of fragrances and share them with the world. Today, we stand as a testament to the enduring passion for scent, blending age-old traditions with contemporary elegance. At Shamim Perfumes, we take pride in offering a diverse range of captivating fragrances, each designed to evoke emotions, memories, and sensations.</description>
     </item>
     <item>
       <title>My Hugo Site</title>
@@ -35,14 +35,14 @@
       <link>http://localhost:1313/post/smitarafoundation/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/smitarafoundation/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+      <description>A nonprofit organization (NPO), also known as a nonbusiness entity[1] or nonprofit institution, and often referred to simply as a nonprofit (not followed by a noun), is a legal entity organized and operated for a collective, public or social benefit, as opposed to an entity that operates as a business aiming to generate a profit for its owners&#xA;Nonprofit organizations are accountable to the donors, founders, volunteers, program recipients, and the public community.</description>
     </item>
     <item>
       <title>Vesta Coffee</title>
-      <link>http://localhost:1313/post/vestacofee/</link>
+      <link>http://localhost:1313/post/post.md/vestacofee/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/vestacofee/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;</description>
+      <guid>http://localhost:1313/post/post.md/vestacofee/</guid>
+      <description>At Vesta we are passionate about sourcing, roasting, and brewing the highest quality specialty coffees from around the world. We believe in building relationships with farmers and exporters at origin who support sustainable growing practices. Quality and service is in our DNA, and is evident with every sip of our coffee, every bag shipped, and every relationship that helps us along the way.&#xA;Coffee became a more profitable fruit to grow in their farm, which led to the creation of Cedral.</description>
     </item>
     <item>
       <title></title>
@@ -56,13 +56,13 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;lorem ipsum s</description>
+      <description>Our work encompasses graphics and identity, strategy and positioning, products and packaging, exhibitions and installations, websites and digital experiences, advertising and communications, data visualizations and typefaces, sound and motion. Our 24 partners are all practicing designers, and whether working collaboratively or independently, they do so in friendship.&#xA;Our structure is unique. We are the only major design studio where the owners of the business are the creators of the work and serve as the primary contact for every client.</description>
     </item>
     <item>
       <title>Main-Things</title>
-      <link>http://localhost:1313/post/brand--main--things/</link>
+      <link>http://localhost:1313/post/post.md/brand--main--things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/brand--main--things/</guid>
+      <guid>http://localhost:1313/post/post.md/brand--main--things/</guid>
       <description> No Stones Left Unturned, be it Online or Offline. Business and Financial Goal First Strategies. Funding and Executive Presentation Decks Transparent Workflow and Project-Management No Revision Fees or Hidden Charges. Data Driven Insights on Your Brand Health Flat Pricing Structure. </description>
     </item>
   </channel>
